@@ -22,5 +22,6 @@ session create
 =Analyzing the default directory
 =
 #
-#analyze directory C:\Repos
+session mavenSettingsFilePath /home/maxime.picque/mirakl/outils/apache-maven-3.6.3/conf/settings.xml
+analyze directory /home/maxime.picque/workspace/scan-github/mirakl
 #an di D:\Documents\Repos\hexa.tools

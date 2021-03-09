@@ -20,6 +20,7 @@ config.properties
 **/welcome.commands
 **/served-data/
 **/*.graphml
+.attach_pid*
 
 pom-explorer/export.csv
 pom-explorer/pomexplorer-ui/pomexplorer-ui/obj/

@@ -1379,8 +1379,8 @@ function createLayout(graph, options) {
   /**
    * Shuold the graph be rendered in 3d space? True by default
    */
-  options.is3d = options.is3d === undefined ? true : options.is3d;
-
+  //  options.is3d = options.is3d === undefined ? true : options.is3d;
+  options.is3d = false;
   var is3d = options.is3d;
   var layout = is3d ? layout3d(graph, options.physics) : layout2d(graph, options.physics);
 

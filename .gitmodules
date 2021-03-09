@@ -1,0 +1,3 @@
+[submodule "ngraph.pixel"]
+	path = ngraph.pixel
+	url = git@github.com:anvaka/ngraph.pixel.git
